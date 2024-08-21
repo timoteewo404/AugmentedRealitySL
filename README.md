@@ -20,7 +20,7 @@ This project demonstrates how to create an interactive system that captures spok
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/sign-language-gesture-display.git
+   git clone https://github.com/timoteewo404/AugmentedRealitySL.git
    cd sign-language-gesture-display
    ```
 
@@ -57,7 +57,7 @@ This project demonstrates how to create an interactive system that captures spok
 ### Project Structure
 
 ```
-sign_language_project/
+AugmentedRealityS/
 │
 ├── images/
 │   ├── path_to_hello_sign_image.png
