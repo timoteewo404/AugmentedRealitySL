@@ -21,7 +21,7 @@ This project demonstrates how to create an interactive system that captures spok
 
    ```bash
    git clone https://github.com/timoteewo404/AugmentedRealitySL.git
-   cd sign-language-gesture-display
+   cd AugmentedRealitySL
    ```
 
 2. **Install Dependencies**
@@ -57,7 +57,7 @@ This project demonstrates how to create an interactive system that captures spok
 ### Project Structure
 
 ```
-AugmentedRealityS/
+AugmentedRealitySL/
 │
 ├── images/
 │   ├── path_to_hello_sign_image.png
